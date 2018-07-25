@@ -1,0 +1,19 @@
+{
+  "name": "yuekao-test",
+  "version": "1.0.0",
+  "description": "yuekao-test",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lizhen0917/yuekao-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lizhen0917/yuekao-test/issues"
+  },
+  "homepage": "https://github.com/lizhen0917/yuekao-test#readme"
+}
